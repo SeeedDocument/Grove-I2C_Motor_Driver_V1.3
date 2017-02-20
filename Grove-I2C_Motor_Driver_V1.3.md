@@ -224,6 +224,7 @@ The connection between [24BYJ48](http://www.seeedstudio.com/depot/high-quality-s
 
 
 - We provide one function to drive a stepper motor.
+
     ```
     // Drive a stepper motor
     void StepperRun(int _step);
